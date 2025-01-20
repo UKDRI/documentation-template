@@ -7,8 +7,6 @@
 * ✅ Bullet Point 2
 * ✅ Bullet Point 3
 
----
-
 ## 📑 Table of Contents
 <hr>
 <ol>
@@ -38,8 +36,6 @@
   </li>
 </ol>
 
----
-
 ## 👥 Team and Contributors
 <hr>
 
@@ -49,15 +45,12 @@
 * 👤 [Contributor 2](https://github.com/contributor2)
 * 👤 [Contributor 3](https://github.com/contributor3)
 
----
-
 <!-- LICENSE -->
 ## 📜 License
 <hr>
 
 🔗 See [`LICENSE.txt`](./LICENSE.txt) for more information.
 
----
 
 <!-- CONTACT -->
 ## 📞 Contact
@@ -67,7 +60,6 @@
 
 🌐 Additional Links: [Project Link](https://<link-to-something>)
 
----
 
 <!-- ACKNOWLEDGMENTS -->
 ## 🙌 Acknowledgments
