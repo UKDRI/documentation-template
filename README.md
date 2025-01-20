@@ -8,7 +8,6 @@
 * ✅ Bullet Point 3
 
 ## 📑 Table of Contents
-<hr>
 <ol>
   <li>
     <a href="#Link_to_the_chapter_folder">📂 Chapter_Name</a>
@@ -37,7 +36,6 @@
 </ol>
 
 ## 👥 Team and Contributors
-<hr>
 
 🎓 **A short description about your team and the project contributors**
 
@@ -47,14 +45,13 @@
 
 <!-- LICENSE -->
 ## 📜 License
-<hr>
 
 🔗 See [`LICENSE.txt`](./LICENSE.txt) for more information.
 
 
 <!-- CONTACT -->
 ## 📞 Contact
-<hr>
+
 
 📧 Your Name - [@ukdri_email](mailto:example@ukdri.ac.uk) - [example@ukdri.ac.uk](mailto:example@ukdri.ac.uk)
 
@@ -63,7 +60,6 @@
 
 <!-- ACKNOWLEDGMENTS -->
 ## 🙌 Acknowledgments
-<hr>
 
 📚 Use this space to list resources
 
