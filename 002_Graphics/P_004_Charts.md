@@ -12,6 +12,14 @@ pie
     "In Progress": 30
     "Pending": 20
 ```
+
+```Shell
+pie
+    title Task Distribution
+    "Completed": 50
+    "In Progress": 30
+    "Pending": 20
+```
 ---
 ### Flowchart:
 ```mermaid
@@ -22,14 +30,53 @@ graph TD
     C -->|No| E[Stop]
 ```
 
-## ✅ Description and Summary
+```Shell
+graph TD
+    A[Start] --> B[Do Work]
+    B --> C{Decision?}
+    C -->|Yes| D[Continue]
+    C -->|No| E[Stop]
+```
+---
+### Bar chart
 
-A short description or Summary on Charts
+```mermaid
+gantt
+    title Git Issues - days since last update
+    dateFormat  X
+    axisFormat %s
+
+    section Issue19062
+    71   : 0, 71
+    section Issue19401
+    36   : 0, 36
+    section Issue193
+    34   : 0, 34
+    section Issue7441
+    9    : 0, 9
+    section Issue1300
+    5    : 0, 5
+```
+```Shell
+gantt
+    title Git Issues - days since last update
+    dateFormat  X
+    axisFormat %s
+
+    section Issue19062
+    71   : 0, 71
+    section Issue19401
+    36   : 0, 36
+    section Issue193
+    34   : 0, 34
+    section Issue7441
+    9    : 0, 9
+    section Issue1300
+    5    : 0, 5
+```
+
+
 
 ## 🙌 Acknowledgments
-
-📚 Use this space to list resources
-
-* 📌 [Reference 1](https://example.com)
-* 📌 [Reference 2](https://example.com)
-* 📌 [Reference 3](https://example.com)
+Find more charts here: 
+* 📌 [mermaid](https://github.com/mermaid-js/mermaid)
